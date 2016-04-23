@@ -1,0 +1,6 @@
+framework module Pods_KinClean {
+  umbrella header "Pods-KinClean-umbrella.h"
+
+  export *
+  module * { export * }
+}
